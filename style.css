@@ -1,0 +1,53 @@
+body {
+  padding: 0 50px;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: "Arial", sans-serif;
+  color: #222222;
+
+  background: #ffffff url("images/background.jpg") no-repeat top center;
+}
+
+.title{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Helvetica", sans-serif;
+    font-weight: 900;
+    opacity: 0.9;
+}
+
+.section{
+    color: red;
+    text-align: center;
+}
+
+.page-title {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  font-family: "Verdana", sans-serif;
+  text-align: center;
+}
+
+.text-block {
+  margin-bottom: 15px;
+  padding: 10px;
+  
+  font-size: 20px;
+
+  color: white;
+
+  background-color: rgba(68, 112, 196, 0.7);
+  border: 5px solid #2d508f;
+  border-radius: 30px;
+}
+
+.video{
+    text-align: right;
+    padding: 10px;
+    background-color: rgba(68, 112, 196, 0.7);
+    border: 5px solid #2d508f;
+    border-radius: 30px;
+    /*opacity: 1;*/
+}
